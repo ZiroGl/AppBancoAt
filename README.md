@@ -88,6 +88,10 @@ Na Registrar, o usuário ira encontrar o os campos para inserir seus dados e o b
 
 <img src="https://github.com/user-attachments/assets/10cd854e-1833-4007-b0c0-d7e8ec6e7726" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppBancoAt/blob/main/AppBanco.apk"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/AppBancoAt/blob/main/LICENSE)  
